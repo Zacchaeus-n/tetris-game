@@ -90,6 +90,8 @@ div {
   align-items: center;
   width: 20rem;
   height: 40rem;
+  background-color: white;
+  box-shadow: 0 0.4rem 1.4rem 0 rgb(245, 65, 41);
 }
 
 .previous-shape {
